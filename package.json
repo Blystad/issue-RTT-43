@@ -1,5 +1,5 @@
 {
-  "name": "collabx-frontend",
+  "name": "rtt-issue-43",
   "version": "1.0.0",
   "description": "RTT - Issue 43 - Project",
   "main": "src/main/js/main.js",
@@ -54,7 +54,6 @@
     "react-router-bootstrap": "^0.18.1",
     "react-select": "^0.6.7",
     "react-stub-context": "^0.3.0",
-    "react-test-tree": "^0.3.0",
     "react-timeago": "^2.2.1",
     "reactabular": "^0.7.0",
     "redux": "^1.0.1",
@@ -86,6 +85,7 @@
     "mocha-loader": "^0.7.1",
     "object-assign": "^4.0.1",
     "phantomjs": "git://github.com/just-boris/phantomjs",
+    "react-test-tree": "^0.3.1",
     "redux-devtools": "^1.1.2",
     "webpack-dev-server": "^1.10.1"
   }
